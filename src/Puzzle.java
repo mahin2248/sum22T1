@@ -16,7 +16,8 @@ public class Puzzle
     {
         this.potionDrop = potionDrop;
     }
-    public Puzzle(String puzzleID, String puzzleDesc, String answer, int attempt, String puzzleHint) {
+    public Puzzle(String puzzleID, String puzzleDesc, String answer, int attempt, String puzzleHint) 
+    {
         this.puzzleID = puzzleID;
         this.puzzleDesc = puzzleDesc;
         this.answer = answer;
