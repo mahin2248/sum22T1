@@ -1,0 +1,7 @@
+1Puz,What has to be broken before you can use it?,egg,5,7,It is an ingredient used for cooking.
+2Puz,What goes up but never comes down?,age,5,10,It relates to how old you are.
+3Puz,What can you keep after giving to someone?,Your word,5,12,It is the thing that is written down in books.
+4Puz,What gets wet while drying?,towel,5,5,It is a piece of cloth or paper.
+5Puz,I shave every day but my beard stays the same. What am I?,Barber,5,9,It is the person that works at a hair salon for men.
+6Puz,I can fly but I have no wings. I can cry but I have no eyes. What am I?,cloud,5,13,It is in the sky.
+7Puz,What has a neck but no head,bottle,5,14,You store your liquid in this.

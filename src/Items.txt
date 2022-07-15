@@ -1,0 +1,36 @@
+Puzzle,Potion,2,1Puz
+Puzzle,Potion,1,2Puz
+Puzzle,Potion,3,3Puz
+Puzzle,Potion,2,5Puz
+NPC,Potion,N01
+Monster,A02,Magic Key,A shiny golden key which can unlock every locked door.,M06
+A03,Shotel,Is a curved sword made of steel the blade is about 40 inches and the hilt is a simple wooden piece with no guard.,7
+Puzzle,A04,Gold Coin,A golden coin is a round precious metal wafer struck in a coin form by the town mayor.,6Puz
+Puzzle,A05,Silver Coin,A silver coin is a round precious metal wafer struck in a coin form by the town mayor.,4Puz
+A06,Silver Key,The Silver Key is an ancient artifact the use of which unlocks gates of space. This item is useless in your realm.,8
+Monster,A07,Oozlum Wings,A pair of delicate white fluffy wings with a holy glow.,M01
+Monster,A08,3-Skull Crown,The Skull Crown is a crown made of three skulls one large one and two smaller skulls side by side. The skulls seem to have two lines etched into them resembling teeth.,M02
+Monster,A09,Royal Knight Armor,A high-quality heavy armor for high-ranking knights. The special polished steel allows even elves to equip it.,M05
+Monster,A10,Resurrection Scroll,Scroll crafted with gold which contains information and map.,M07
+Monster,A11,Doctor's Syringe,A dirty syringe filled with some sort of substance…,M03
+NPC,A12,Axe,A fully metal made axe with a dragon skin on the handle,N02
+NPC,A13,Mace,A mace is a blunt weapon a type of club or virge. Its head is made of silver,N02
+NPC,A14,Khopesh,Egyptian weapon that featured a hooked blade sharpened on its outside edge,N02
+Puzzle,A15,Steel Plate Armor,An armor set encased with steel. This armor provides moderate defense.,7Puz
+NPC,A16,Lesser Knight's Armor,A basic armor set that looks battle worn adorning scars and tears deep in its plating.,N01
+A17,Commoner's Clothes,A set of burlap clothes. They don’t provide much protection and are not very stylish.,1
+A18,Wooden Stick,A wooden stick likely from an oak tree.,1
+Monster,A00,Your Dad,This is your dad! Not an item!,M04
+AddOn,Monster,A02,50,None
+AddOn,Room,A03,10,Weapon,10
+AddOn,Puzzle,A04,30,None
+AddOn,Puzzle,A05,20,None
+AddOn,Room,A06,40,None
+AddOn,Monster,A09,-1,Armor,50
+AddOn,NPC,A12,40,Weapon,25
+AddOn,NPC,A13,20,Weapon,20
+AddOn,NPC,A14,10,Weapon,15
+AddOn,Puzzle,A15,-1,Armor,20
+AddOn,NPC,A16,15,Armor,15
+AddOn,Room,A17,5,Armor,5
+AddOn,Room,A18,5,Weapon,5

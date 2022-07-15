@@ -1,0 +1,12 @@
+M01,5
+M02,10
+M03,8
+M04,15
+M05,19
+M06,11
+M07,12
+M08,3
+M09,2,Ultra monster,50,A short blue ultra monster appears from the mist; he takes a swing at you with his club.,Coin,20,HP,1
+M10,9,Ultraman Zero,50,You hear the sound of metal clattering and turn around. It walks around and it appears to be attacking you.,Coin,15
+M11,7,Gamore,50,The stench of two little ultra monster hits you. A bandit approaches you in attempt to extort some gold from you.,Coin,20
+M12,13,Grand King,50,The stench of a dinosaur who hits you. A grand king approaches you in attempt to extort some gold from you.,Coin,28
