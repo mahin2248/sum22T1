@@ -9,7 +9,7 @@ public class Map
     public Map() throws FileNotFoundException
     {
         room = new ArrayList<Room>();
-        readMap("Room.txt");
+        readMap("Map.txt");
         readMonster("Monster.txt");
         readPuzzle("Puzzle.txt");
         readItem("Items.txt");
